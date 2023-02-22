@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">The Utility Calculator</string>
+    <string name="tip_name">The Tip Calculator</string>
+    <string name="gas_name">The Gas Calculator</string>
+    <string name="tax_name">The Tax Calculator</string>
+    <string name="back">Back </string>
+
+    <string name="tip_totalHint"> 27.99 </string>
+    <string name="tip_bill"> Please Enter Your Bill Amount Below </string>
+    <string name="tip_10"> 10% Tip </string>
+    <string name="tip_15"> 15% Tip </string>
+    <string name="tip_20"> 20% Tip </string>
+    <string name="tip_btn"> Calculate Your Tip! </string>
+
+    <string name="tip_total"> Your Tip Total Will Appear Here </string>
+    <string name="gas_tank"> How Many Gallons Of Gas Can Your Tank Hold? </string>
+    <string name="gas_dist"> In Miles, How Far Did You Travel With That Tank?</string>
+    <string name="gas_tank_ex"> 20</string>
+    <string name="gas_dist_ex"> 120</string>
+    <string name="gas_btn"> Calculate Your Gas Mileage! </string>
+    <string name="gas_mpg"> Enter the information above to calculate your mpg </string>
+
+    <string name="tax_bill_ex"> 25 </string>
+    <string name="tax_tax_ex"> 8.1 </string>
+    <string name="tax_bill"> How much was your bill? </string>
+    <string name="tax_taxRate"> How much is your rate of tax in percent? </string>
+    <string name="tax_calc"> Calculate Your Tax! </string>
+    <string name="tax_final"> Enter the Info Above to Find Out What The Bill Will Be After Tax! </string>
+</resources>
